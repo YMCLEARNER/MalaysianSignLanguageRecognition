@@ -1,4 +1,3 @@
-pip install gdown
 import streamlit as st
 import requests
 import os
